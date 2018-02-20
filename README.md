@@ -6,21 +6,21 @@ Programming Diploma - SharePoint specialization is the diploma program that teac
 
 The course outline included: 
 
-Client Side Web Development 
+1. Client Side Web Development -
 HTML/HTML5
 XML/SVG
 CSS/CSS3
 JavaScript
 JQuery
 
-Server Side Web Development
+2. Server Side Web Development -
 C#
 ASP.NET
 PowerShell
 Web Controls
 User Controls
 
-SharePoint
+3. SharePoint -
 Development Tools
 Object Model
 SharePoint Lists
