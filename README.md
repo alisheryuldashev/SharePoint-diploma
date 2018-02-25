@@ -2,7 +2,7 @@
 
 This repository contains my solutions to problem sets that I solved while taking a College Diploma program in Programming - SharePoint Specialization from Innotech College.
 
-Programming Diploma - SharePoint specialization is the diploma program that teaches computer programming with the focus on Microsoft SharePoint technology. In addition to learning SharePoint, there is a great focus within the program on learning .NET application development and the language it is programmed in - C#.
+Programming Diploma - SharePoint specialization was a diploma program that I took in 2017/2018 and that taught me computer programming with the focus on Microsoft SharePoint technology. In addition to learning SharePoint, there was a great focus within the program on learning front end develoment and .NET application development.
 
 The course outline included: 
 
