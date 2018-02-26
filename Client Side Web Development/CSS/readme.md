@@ -17,7 +17,7 @@ Exercise 3: Enhance a simple HTML table with CSS styles so that the final form l
 
 ![exer3](https://user-images.githubusercontent.com/14170402/36648425-c204e3c4-1a50-11e8-818f-c862a12f48a2.PNG)
 
-Exercise 4: Implement the following drop down menu naivgation only using CSS3 and HTML5 markup (fontawesome icons used in this exercise):
+Exercise 4: Implement the following drop down menu navigation only using CSS3 and HTML5 markup (fontawesome icons used in this exercise):
 
 ![exer4](https://user-images.githubusercontent.com/14170402/36648454-13b63f56-1a51-11e8-853a-c387633dfbd7.PNG)
 
