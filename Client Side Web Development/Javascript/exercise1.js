@@ -1,4 +1,5 @@
-//Lab 4 Exercise 1 by Alisher Yuldashev. Innotech College
+//JavaScript Lab 4 Exercise 1 by Alisher Yuldashev. 
+//Programming Diploma - SharePoint Specialization. Innotech College
 
 'use strict';	// this turns on strict for all the JavaScript code on the web page
 
@@ -10,10 +11,6 @@ function calculate()
 	var radius = 0;
 	var volume = 0;
 	
-	// If you uncomment the following line,
-	//		it will drop into the debugger only if F12 window is open
-//		debugger;
-
     // Obtain the values from the text box for radius  id='radius'
 	radius = document.getElementById('radius').value;
 	
