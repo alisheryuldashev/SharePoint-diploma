@@ -1,9 +1,8 @@
-//Lab 4 Exercise 3 by Alisher Yuldashev. Innotech College
+//JavaScript Lab 4 Exercise 3 by Alisher Yuldashev. 
+//Programming Diploma - SharePoint Specialization. Innotech College
 
 'use strict';
-debugger;
 function verifySentence(){
-
 	//get the sentence that user types in
 	var sentenceTag = document.getElementById('sentence');
 	if (sentenceTag != null) {
