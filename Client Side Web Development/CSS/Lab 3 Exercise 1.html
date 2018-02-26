@@ -1,0 +1,108 @@
+<!--Lab 3 Exercise 1 by Alisher Yuldashev. Innotech College-->
+
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>
+			Lab 3 Exercise 1
+		</title>
+		<style type="text/css">
+		div#flex-container {
+			display: -webkit-box;
+  			display: -moz-box;
+  			display: -ms-flexbox;
+  			display: -webkit-flex;
+  			display: flex;
+			background: grey;
+			width: 100%;
+		}
+
+		div#two-column {
+			-webkit-column-count: 2;
+  			-moz-column-count: 2;
+			column-count: 2;
+			-webkit-column-gap: 50px;
+  			-moz-column-gap: 50px;
+			column-gap: 50px;
+			column-rule-style: solid;
+  			column-rule-width: 2px;
+  			column-rule-color: grey; 
+		}
+
+		div#flex-container-vertical {
+			display: -webkit-box;
+  			display: -moz-box;
+  			display: -ms-flexbox;
+  			display: -webkit-flex;
+			display: flex;	
+			flex-direction: column;
+			background: blue;			
+		}
+
+		div#flex-container-manga {
+			display: -webkit-box;
+  			display: -moz-box;
+  			display: -ms-flexbox;
+  			display: -webkit-flex;
+			display: flex;
+			flex-direction: column-reverse;
+			background: yellow;
+		}
+		
+		div#flex-container-right-to-left {
+			display: -webkit-box;
+  			display: -moz-box;
+  			display: -ms-flexbox;
+  			display: -webkit-flex;
+  			display: flex;
+  			flex-direction: row-reverse;
+  			background: green;
+		}
+		
+		.flex-item{
+			background-color:lightblue;
+			width:95%;
+			margin:15px;
+			text-align:center;
+			font-weight:bold;
+			font-size:3em;
+			color:white;
+		}
+		</style>
+	</head>
+	<body>
+		<div id="flex-container">
+			<div class="flex-item">A</div>
+			<div class="flex-item">B</div>
+			<div class="flex-item">C</div>
+			<div class="flex-item">D</div>
+			<div class="flex-item">E</div>			
+		</div>	
+		
+		<div id="two-column">
+			<div id="flex-container-vertical">
+				<div class="flex-item">A</div>
+				<div class="flex-item">B</div>
+				<div class="flex-item">C</div>
+				<div class="flex-item">D</div>
+				<div class="flex-item">E</div>			
+			</div>			
+			<div id="flex-container-manga">
+				<div class="flex-item">A</div>
+				<div class="flex-item">B</div>
+				<div class="flex-item">C</div>
+				<div class="flex-item">D</div>
+				<div class="flex-item">E</div>			
+			</div>	
+		</div>
+		
+		<div id="flex-container-right-to-left">
+			<div class="flex-item">A</div>
+			<div class="flex-item">B</div>
+			<div class="flex-item">C</div>
+			<div class="flex-item">D</div>
+			<div class="flex-item">E</div>			
+		</div>	
+
+	</body>
+</html>
