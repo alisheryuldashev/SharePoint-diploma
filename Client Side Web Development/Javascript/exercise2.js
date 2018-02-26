@@ -1,4 +1,5 @@
-//Lab 4 Exercise 2 by Alisher Yuldashev. Innotech College
+//JavaScript Lab 4 Exercise 2 by Alisher Yuldashev. 
+//Programming Diploma - SharePoint Specialization. Innotech College
 
 'use strict';
 
@@ -13,13 +14,8 @@
 	}
 */
 
-	// We have to make sure the web page is completely loaded and ready before
-	// we can run this code.  Otherwise it won't work because of timing issues
+	// ensure the web page is completely loaded and ready 
     window.onload = function () {
-		// If you uncomment the following line,
-		//		it will drop into the debugger only if F12 window is open
-//		debugger;
-
 		// Get the element on the web page that contains the image
 		var nystories = document.getElementsByClassName('scrollToReveal');
 		// Make sure we actually found a class on the page
@@ -41,8 +37,7 @@
 						if (window.pageYOffset > 0) {
 							// Move the opaque box to reflect the scroll amount they have done
 							var opaque = (window.pageYOffset / nystoriesoffset);
-							console.log(opaque);		// just for debugging purposes
-							
+							console.log(opaque);									
 							// do we need to alter the text color (since it is white now?)
 							nyimage.style.color = "black";
 							// What minor changes to the code are required from the original from codepen.io?
