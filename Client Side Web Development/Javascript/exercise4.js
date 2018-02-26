@@ -1,4 +1,5 @@
-//Lab 4 Exercise 4 by Alisher Yuldashev. Innotech College
+//JavaScript Lab 4 Exercise 4 by Alisher Yuldashev. 
+//Programming Diploma - SharePoint Specialization. Innotech College
 
 'use strict';
 
@@ -6,9 +7,6 @@
 // calls our function tht adds the text entry box
 //	 We need to wait for the page to load completely because we can't determine when our JavaScript will run
 window.onload = function () {
-	// Uncomment the following line if you want to drop into the debugger automatically when the F12 window is open
-//	debugger;
-
 	// Find all the check boxes
 	var selectBoxes = document.getElementsByClassName('checkme');
 	// Make sure we found something
@@ -17,17 +15,16 @@ window.onload = function () {
 		for (var idx=0; idx < selectBoxes.length; idx++) {
 			// Get the specific match we want to work on
 			var currentSelectBox = selectBoxes[idx];
-			// We need to get the identify of this item to pass it to the function that will be our onclick event handler
+			// We need to get the state of this item to pass it to the function that will be our onclick event handler
 			var identity = currentSelectBox.value;
 			// use the DOM to add an event handler for onclick
 			currentSelectBox.addEventListener("click",function (identity) {AddQtyBox(identity);});
-		}	// for loop
-	}	// if statement
+		}	// for loop scope
+	}	// if statement scope
 }
 
 // This function adds a textbox in the Qty column of the table whenever it is called
 function AddQtyBox(caller) {
-	debugger;
 	// remove row- from the front of identity of this checkbox
 	var selector = "row-" + caller.srcElement.value;
 	var cellRow = document.getElementById(selector);
@@ -69,9 +66,8 @@ function AddQtyBox(caller) {
 					}
 				}
 			}
-			else {
-//				debugger;
-				// Remove the Qty text input box
+			else {//			
+				// user unchecked the box so remove the Qty text input box
 				if (cell != null) {
 					for (var idx=0; idx < cell.length; idx++) {
 						var hasChild = cell[idx].childElementCount;
@@ -92,7 +88,6 @@ function AddQtyBox(caller) {
 
 // This function updates the onscreen total for this table
 function  UpdateTotal() {
-//	debugger;
 	var totalsBoxes = null;
 	var totalQty = 0;		// The running total
 	
