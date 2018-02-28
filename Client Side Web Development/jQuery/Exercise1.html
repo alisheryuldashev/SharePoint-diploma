@@ -1,0 +1,57 @@
+<!--jQuery Lab 5 Exercise 1 by Alisher Yuldashev. 
+Programming Diploma - SharePoint specialization (Innotech College)-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<meta charset="utf-8">
+		<title>Lab 5 - jQuery Exercise 1</title>
+		<style type="text/css" rel="stylesheet">
+			body { 
+				display: flex; 
+				flex-direction: column
+			}
+			div {
+				width: 60px;
+				height: 60px;
+				margin: 5px 5px 5px 5px;   
+			}
+			p {
+				margin-top:20px;
+				padding: 5px;
+				border: 2px solid #666;
+				max-width: 350px;
+			}
+		</style>
+		<script>
+			'use strict';
+			
+			// Delay the execution of our code until the web page is fully loaded
+			$(document).ready( function () {
+				debugger;
+				var $boxes = $("div");
+				if ($boxes && $boxes.length > 0) {
+					$boxes.on('click', function() {
+						var $color = $(this).css("background-color");
+						//$("p").text("That div you click on is " + $color); 
+						$("p").html("That div you click on is " + "<span style='color:" +$color + ";' >" +$color +"</span>");
+
+					 });
+				};						
+			});
+		</script>
+
+	</head>
+	<body>
+		<h2>Click on any of the colored boxes</h2>
+		<div style="background-color:red;"></div>
+		<div style="background-color:rgb(16,99,30);"></div>
+		<div style="background-color:#523456;"></div>
+		<div style="background-color:#a11;"></div>
+		<p onclick="" />
+		
+	</body>
+
+</html>
+

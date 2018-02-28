@@ -1,0 +1,32 @@
+<!--jQuery Lab 5 Exercise 3 by Alisher Yuldashev. 
+Programming Diploma - SharePoint specialization (Innotech College)-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+		<meta charset="utf-8">
+		<title>Lab 5 jQuery - Exercise 3</title>
+		<script>
+			'use strict';
+						
+			$(document).ready( function () {
+				var $headings = $(":header"); //select all headers from h1 to h6
+				if ($headings && $headings.length > 0) {
+					$headings.on('click', function() {
+						$(this).slideUp(); 
+					});
+				};
+				
+			});
+						
+
+		</script>
+	</head>
+	<body>
+		<h1>Heading-1</h1>
+		<h2>Heading-2</h2>
+		<h3>Heading-3</h3>
+	</body>
+
+</html>
