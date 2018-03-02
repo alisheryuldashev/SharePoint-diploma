@@ -1,4 +1,4 @@
-//C# Control Flow Lab 1 Lab code by Alisher Yuldashev. 
+//C# Control Flow Lab 1 code by Alisher Yuldashev. 
 //Programming Diploma - SharePoint Specialization (Innotech College)
 
 using System;
