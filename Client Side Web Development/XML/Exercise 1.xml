@@ -4,76 +4,9 @@ Programming Diploma - SharePoint Specialization. Innotech College-->
 <?xml version="1.0" encoding="UTF-8"?>
 <collection>
 	<description>My favourite recipes</description>
-	<recipe>
-		<title>Sushi Roll</title>
-		<ingredients>
-			<ingredient name="uncooked short-grain white rice" amount="2/3" unit="cup"></ingredient>
-			<ingredient name="rice vinegar" amount="3" unit="tablespoon"></ingredient>
-			<ingredient name="salt" amount="1 1/2" unit="teaspoon"></ingredient>
-			<ingredient name="nori seaweed" amount="4" unit="sheet"></ingredient>
-			<ingredient name="cucumber" amount="1/2" unit="strip"></ingredient>
-				<preparation>peel and cut in small strips</preparation>
-			<ingredient name="pickled ginger" amount="2" unit="tablespoon"></ingredient>
-			<ingredient name="avocado" amount="1" unit="piece"></ingredient>
-			<ingredient name="limitation crabmeat" amount="1/2" unit="pound"></ingredient>			
-		</ingredients>
-		<preparation>
-			<step order="1">
-				In a medium saucepan, bring 1 1/3 cups water to a boil. Add rice, and stir. Reduce heat, cover, and simmer for 20 minutes. In a small bowl, mix the rice vinegar, sugar ,and salt. Blend the mixture into the rice.
-			</step>
-			<step order="2">
-				Preheat oven to 300 degrees F (150 degrees C). On a medium baking sheet, heat nori in the preheated oven 1 to 2 minutes, until warm.
-			</step>
-			<step order="3">
-				Center one sheet nori on a bamboo sushi mat. Wet your hands. Using your hands, spread a thin layer of rice on the sheet of nori, and press into a thin layer. Arrange 1/4 of the cucumber, ginger, avocado, and imitation crabmeat in a line down the center of the rice. Lift the end of the mat, and gently roll it over the ingredients, pressing gently. Roll it forward to make a complete roll. Repeat with remaining ingredients.
-			</step>
-			<step order="4">
-				Cut each roll into 4 to 6 slices using a wet, sharp knife.
-			</step>
-		</preparation>
-		<comment order="1">
-		Tip 1: If you do not have a bamboo sushi mat, the easiest way to roll the sushi is to use a clean dish towel.
-		</comment>
-		<comment order="2">
-		Tip 2: Aluminum foil can be used to keep food moist, cook it evenly, and make clean-up easier.
-		</comment>
-		<nutrition>
-			<nutrition protein="2.1" carbohydrates="28" fat="5.7" calories="140"></nutrition>			
-		</nutrition>		
-	</recipe>
-	
-	<recipe>
-		<title>Lamb and Rice Pilaf</title>
-		<ingredients>
-			<ingredient name="basmati rice" amount="2" unit="cup"></ingredient>
-			<ingredient name="whole garlic" amount="4" unit="head"></ingredient>
-			<ingredient name="vegetable oil" amount="1/2" unit="cup"></ingredient>
-			<ingredient name="boneless leg of lamb cut into 3-inch pieces" amount="2" unit="pound"></ingredient>
-			<ingredient name="thinly sliced large onions" amount="2" unit="head"></ingredient>
-			<ingredient name="coarsely grated large carrots" amount="5" unit="piece"></ingredient>
-			<ingredient name="cummin seeds" amount="2" unit="tablespoon"></ingredient>
-			<ingredient name="coriander seed" amount="2" unit="tablespoon"></ingredient>
-			<ingredient name="fresh barberries" amount="1/2" unit="cup"></ingredient>
-			<ingredient name="whole black peppercorns" amount="1" unit="teaspoon"></ingredient>
-			<ingredient name="boiling water" amount="2" unit="cup"></ingredient>
-			<ingredient name="salt" amount="2" unit="tablespoon"></ingredient>
-		</ingredients>
-		<preparation>
-			<step order="1">
-				Place basmati rice in a large bowl and cover with warm water. Set aside. Wash heads of garlic. Set aside.
-			</step>
-			<step order="2">
-				Heat vegetable oil in a dutch oven or large skillet over high heat until smoking, then add lamb, turning occasionally until the lamb is evenly browned, about 10 minutes. Stir in the onions; cook and stir until the onion has softened and browned, about 10 minutes. Stir in the carrots; cook and stir until the carrots have softened, about 10 minutes. Sprinkle with cumin, coriander, barberries, and peppercorns. Drop whole garlic heads into the mixture, stirring to evenly distribute ingredients. Reduce heat to medium. Cover and cook for 30 minutes.
-			</step>
-			<step order="3">
-				Pour cleaned rice over the lamb mixture in an even layer. Slowly pour in the boiling water. The rice should be covered with about 3/4 inch of water. Do not stir. Season with salt, and reduce heat to medium-low. Cover and cook until rice is tender, and the liquid has been absorbed, about 20 minutes. Stir rice and lamb together, and serve with the garlic heads on top.
-			</step>		
-		</preparation>
-		<comment order="1">
-			Preparation takes 20 minutes. Cooking takes 1 hour and 40 minutes. Pilaf should be ready in 2 hours. 
-		</comment>
-		<nutrition>
-			<nutrition protein="4.26" carbohydrates="44.43" fat="6.67" calories ="258"></nutrition>
-		</nutrition>		
-	</recipe>
+	<p>
+		access to this content is restricted for privacy reasons 
+		if you are a prospective employer and would like to see my source code,
+		please contact me for more information. 
+	</p>
 </collection>
