@@ -1,3 +1,5 @@
+These are the extra challenges that I did not have to submit to college, but I found them challenging enough to crack. 
+
 Exercise 1 - this C# console program will ask you to type four integers and then find the greatest value of the four:
 
 Enter 1st integer values: 10   
