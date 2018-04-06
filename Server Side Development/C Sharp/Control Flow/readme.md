@@ -9,7 +9,11 @@ Enter 4th integer values: 12
 
 The greatest value is: 20
 
+![exec 1](https://user-images.githubusercontent.com/14170402/38429264-2a093512-397b-11e8-841e-bd7c82945c6c.PNG)
+
 Exercise 2 - this C# program will draw 1/2 of the christmas tree using the * symbol:
 
-![exer 2](https://user-images.githubusercontent.com/14170402/36906032-1740bcec-1df2-11e8-9ad0-ebae1cd7a9d4.PNG)
+![exec 2a](https://user-images.githubusercontent.com/14170402/38429275-2f0c3bfe-397b-11e8-9794-8033c3df94fe.PNG)
+
+![exec 2b](https://user-images.githubusercontent.com/14170402/38429282-337f80ce-397b-11e8-901d-1eb48e810a41.PNG)
 
