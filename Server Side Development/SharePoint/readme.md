@@ -1,7 +1,1 @@
-Excercise 1: This code creates a page, a document library and 2 columns in a SharePoint site using JSOM model. 
-
-![jsom](https://user-images.githubusercontent.com/14170402/38430434-7ea69e5e-397e-11e8-9716-48f769b12f6d.gif)
-
-Exercise 2:  This code will do exactly the same operations, but this time it will use REST API model to talk to SharePoint.
-
-![rest](https://user-images.githubusercontent.com/14170402/38430784-7c9ea754-397f-11e8-8784-2fc11f8fcbaf.gif)
+These projects were the most critical part of the course and revolved around SharePoint and using different object models to talk to SharePoint. It required a fundamental knowledge of SharePoint objects as well as experience with HTML/CSS/JavaScript/C#/ASP.NET to make things work. 
