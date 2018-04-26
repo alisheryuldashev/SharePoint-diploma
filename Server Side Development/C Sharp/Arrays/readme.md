@@ -6,3 +6,5 @@ This program will display a menu that enables the instructor to choose whether t
 ![screen2](https://user-images.githubusercontent.com/14170402/36906998-a1804cc2-1df4-11e8-8300-029cc294496e.PNG)
 
 ![screen3](https://user-images.githubusercontent.com/14170402/36907003-a5014ff4-1df4-11e8-81c5-9a00a8147609.PNG)
+
+Important: Access to the source code is restricted for privacy reasons. If you are a prospective employer and would like to see my source code, please contact me for more information.
