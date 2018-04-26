@@ -17,3 +17,4 @@ Exercise 2 - this C# program will draw 1/2 of the christmas tree using the * sym
 
 ![exec 2b](https://user-images.githubusercontent.com/14170402/38429282-337f80ce-397b-11e8-901d-1eb48e810a41.PNG)
 
+Important: Access to the source code is restricted for privacy reasons. If you are a prospective employer and would like to see my source code, please contact me for more information.
