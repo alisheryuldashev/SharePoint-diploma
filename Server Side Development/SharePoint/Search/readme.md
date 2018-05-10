@@ -6,5 +6,4 @@ Finally, I modified the search query to never return a search result for one of 
 
 ![startrek](https://user-images.githubusercontent.com/14170402/39894054-ec641774-5462-11e8-91bb-db9b24d681c4.gif)
 
-This search exercise required to create an enterprise search page (that would look like Bing or Google search) and modify the refiner web part.
-I called mine a Star Trek search. 
+This search exercise required to create an enterprise search center (that would look like Bing or Google search) and modify the refiner web part. I called mine a Star Trek search. 
