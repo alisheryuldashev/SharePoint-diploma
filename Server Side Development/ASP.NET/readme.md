@@ -14,7 +14,7 @@ The form saves all entries in a ViewState and assigns it to a GridView control f
 
 ![student form](https://user-images.githubusercontent.com/14170402/39763621-e37e9ebe-529a-11e8-9bd3-24cedf42aa93.gif)
 
-Exercise 4: This project was assigned as a homework where we had to download and understand the Microsoft source code of the store front web site that sells products online (https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/introduction-and-overview). 
+Exercise 4: This project was assigned as a homework where we had to download and understand the Microsoft source code of the store front web site that sells products online (https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/introduction-and-overview). It was built using ASP.NET Web Forms and we were comfortable reading the source code, we had to modify it. 
 
 Here is the screenshot of the original online store main page and product page:
 
