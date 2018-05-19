@@ -8,11 +8,21 @@ The form will display a message "You have not completed all the required fields.
 
 ![asp2](https://user-images.githubusercontent.com/14170402/39312813-a506a21a-492d-11e8-8d7d-60e5f81a8f08.gif)
 
-Exercise 3: This is a student application form where I created a master page and a content page using ASP.NET. It has validators for the  fields and a user control for address section. 
+Exercise 3: This is a student application form where I created a master page and a content page using ASP.NET. It has validators for the fields and a user control for address section. 
 
-The form saves all entries in a ViewState and assigns it to a GridView control for simple data binding. Ajax partial update for GridView control has been applied for all new entries. 
+The form saves all entries in a ViewState and assigns it to a GridView control for a data binding. Ajax partial update for GridView control has been applied for all new entries. 
 
 ![student form](https://user-images.githubusercontent.com/14170402/39763621-e37e9ebe-529a-11e8-9bd3-24cedf42aa93.gif)
+
+Exercise 4: This project was assigned as a homework where we had to download and understand the Microsoft source code of the store front web site that sells products online (https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/introduction-and-overview). 
+
+https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/introduction-and-overview/_static/image1.png
+
+The second task was to modify the original source code and make it look and function slightly different: 
+
+1. 
+
+
 
 Important: Access to the source code is restricted for privacy reasons. If you are a prospective employer and would like to see my source code, please contact me for more information.
 
