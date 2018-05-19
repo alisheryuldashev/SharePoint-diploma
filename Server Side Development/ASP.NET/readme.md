@@ -16,18 +16,26 @@ The form saves all entries in a ViewState and assigns it to a GridView control f
 
 Exercise 4: This project was assigned as a homework where we had to download and understand the Microsoft source code of the store front web site that sells products online (https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/introduction-and-overview). 
 
-Here is the screenshot of the original online store:
+Here is the screenshot of the original online store main page and product page:
+
 ![original store](https://user-images.githubusercontent.com/14170402/40269192-0328837e-5b38-11e8-8207-409d58f889fb.png)
+
+![original store 2](https://user-images.githubusercontent.com/14170402/40269379-f2cd4d90-5b3a-11e8-83d0-20e822926482.png)
 
 The second task was to modify the original source code and make it look and function slightly different: 
 
-1. Change the UI and product images
-2. Create a new user in the UI and assign full priviledges in the SQL user table
+1. Create a new branding and products
+2. Create a new user in the UI and assign them full priviledges in the SQL user table
 3. Create a new "Edit Product" functionality in the Admin Site to update products (source code only allowed to add/remove products)
 4. Create a new "Sale Price" item for each product (source code only showed unit price)
 5. Create a new functionality to show only sale products on the main page (original source code did not show any products on main page)
 6. Create new functionality to calculate sale price in the Shopping Cart (original source code did not show sale price) 
 7. Test SQL database to ensure it shows sale prices.
+
+Here are my changes to original code: 
+
+![toysrus](https://user-images.githubusercontent.com/14170402/40269406-44e11b16-5b3b-11e8-99a9-aea6891141a5.gif)
+
 
 
 Important: Access to the source code is restricted for privacy reasons. If you are a prospective employer and would like to see my source code, please contact me for more information.
