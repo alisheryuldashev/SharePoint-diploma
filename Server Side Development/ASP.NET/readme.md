@@ -14,7 +14,7 @@ The form saves all entries in a ViewState and assigns it to a GridView control f
 
 ![student form](https://user-images.githubusercontent.com/14170402/39763621-e37e9ebe-529a-11e8-9bd3-24cedf42aa93.gif)
 
-Exercise 4: This project was assigned as a homework where we had to download and understand the Microsoft source code of the store front web site that sells products online (https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/introduction-and-overview). It was built using ASP.NET Web Forms and we were comfortable reading the source code, we had to modify it. 
+Exercise 4: This project was assigned as a homework where we had to download and understand the Microsoft source code of the store front web site that sells products online (https://docs.microsoft.com/en-us/aspnet/web-forms/overview/getting-started/getting-started-with-aspnet-45-web-forms/introduction-and-overview). It was built using ASP.NET Web Forms and as we got more comfortable reading the source code, we had to modify it. 
 
 Here is the screenshot of the original online store main page and product page:
 
@@ -22,7 +22,7 @@ Here is the screenshot of the original online store main page and product page:
 
 ![original store 2](https://user-images.githubusercontent.com/14170402/40269379-f2cd4d90-5b3a-11e8-83d0-20e822926482.png)
 
-The second task was to modify the original source code and make it look and function slightly different: 
+The second task was to modify the original source code and make it look and function slightly differently: 
 
 1. Create a new branding and products
 2. Create a new user in the UI and assign them full priviledges in the SQL user table
