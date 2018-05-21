@@ -6,3 +6,7 @@ Once completed, a new site will also create a new document library called Assign
 
 ![ssom](https://user-images.githubusercontent.com/14170402/39895891-3b2af44e-5469-11e8-8078-cc3b3d234062.gif)
 
+Exercise 2: the second exercise creates the same output as Exercise 1, but this time using Client Side Object Model (CSOM) in SharePoint.
+
+![csom](https://user-images.githubusercontent.com/14170402/40285956-3eeccf28-5c5f-11e8-86d9-ae0f8fbceefb.gif)
+
