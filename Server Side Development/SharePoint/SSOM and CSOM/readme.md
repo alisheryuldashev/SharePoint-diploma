@@ -10,3 +10,4 @@ Exercise 2: the second exercise creates the same output as Exercise 1, but this 
 
 ![csom](https://user-images.githubusercontent.com/14170402/40285956-3eeccf28-5c5f-11e8-86d9-ae0f8fbceefb.gif)
 
+Important: Access to the source code is restricted for privacy reasons. If you are a prospective employer and would like to see my source code, please contact me for more information.
