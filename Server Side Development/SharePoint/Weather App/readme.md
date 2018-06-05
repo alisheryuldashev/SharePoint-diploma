@@ -1,6 +1,6 @@
 In this assignment we had to build a weather app using REST API calls and deploy it to SharePoint Online. 
 
-We started with the original starter code that was using REST API to showed weather for current location by IP address
+We started with this original starter code (https://code.msdn.microsoft.com/office/Weather-Add-In-for-9635e488) that was using REST API to showed weather for current location by IP address
 Here is what the starter code does:
 ![original](https://user-images.githubusercontent.com/14170402/40952717-a3b40062-6839-11e8-83a8-72f8057845db.gif)
 
