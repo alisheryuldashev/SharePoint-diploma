@@ -11,3 +11,5 @@ Extend the existing starter code by adding a new functionality:
 3. use a different REST API endpoint to search by city name instead of by IP address
 4. Deploy the weather app and create a separate page in SharePoint
 ![weatherapp](https://user-images.githubusercontent.com/14170402/40952719-a92241da-6839-11e8-9348-f69109b5b7f6.gif)
+
+Important: Access to the source code is restricted for privacy reasons. If you are a prospective employer and would like to see my source code, please contact me for more information.
