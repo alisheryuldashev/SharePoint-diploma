@@ -1,4 +1,4 @@
-In this assignment we had to build a weather app using REST API calls and deploy it to SharePoint Online. 
+In this assignment I had to build a weather app using REST API calls and deploy it to SharePoint Online. 
 
 We started with this original starter code (https://code.msdn.microsoft.com/office/Weather-Add-In-for-9635e488) that was using REST API to showed weather for current location by IP address
 Here is what the starter code does:
