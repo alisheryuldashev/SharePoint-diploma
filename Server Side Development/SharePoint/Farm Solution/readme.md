@@ -6,3 +6,5 @@ My solution package, when deployed, will modify the site collection it is deploy
 2. A web part, called Create Student Site, will be added to the site collection and will point to the files in step 1.
 
 ![farm solution](https://user-images.githubusercontent.com/14170402/41109446-4b56cae2-6a34-11e8-977f-972b884f4d72.gif)
+
+Important: Access to the source code is restricted for privacy reasons. If you are a prospective employer and would like to see my source code, please contact me for more information.
