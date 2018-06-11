@@ -10,3 +10,5 @@ This solution required to:
 This demo shows a deployed app called "Procurement Manager App" with 2 web parts to create a new project site and to show all existing project sites. 
 
 ![procurement](https://user-images.githubusercontent.com/14170402/41209694-58f7c954-6cea-11e8-8ffc-15b25d2b7104.gif)
+
+Important: Access to the source code is restricted for privacy reasons. If you are a prospective employer and would like to see my source code, please contact me for more information.
